@@ -2,7 +2,7 @@
 
 int main () {
     double a,b;
-    cout << "Podaj dwie liczby" << endl;
+    cout << "Podaj dwie dowolne liczby   " << endl;
     cin >> a >> b;
     cout << liczby (a,b) << endl;
 
